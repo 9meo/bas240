@@ -15,7 +15,7 @@
 
 - LAB 1 Pandas [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB1/Lab_1_Pandas.ipynb)]
 
-- LAB 2 DataExploration  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB1/Lab_1_Pandas_Data_Exploration.ipynb)]
+- LAB 2 DataExploration  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB2/Lab_2_Pandas_Data_Exploration.ipynb)]
 
-- LAB 2 Data Types Conversion  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB1/Lab_1_data_types_conversion.ipynb)]
+- LAB 2 Data Types Conversion  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB2/Lab_2_data_types_conversion.ipynb)]
 
