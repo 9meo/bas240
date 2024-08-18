@@ -1,5 +1,5 @@
-# bas240
-BAS240 Data Analytics Programming
+
+# BAS240 Data Analytics Programming
 
 **Data**: variable, variable types, types conversion, pivot, unpivot, aggregation and granularity. 
 
