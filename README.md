@@ -21,3 +21,5 @@
 
 - LAB 3 Data Aggregation  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB3/Lab_3_Aggregation.ipynb)]
 
+- LAB 3 Pivot Table  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB3/LAB_3_Pivot_Table.ipynb)]
+
