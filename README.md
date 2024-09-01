@@ -19,3 +19,5 @@
 
 - LAB 2 Data Types Conversion  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB2/Lab_2_data_types_conversion.ipynb)]
 
+- LAB 3 Data Aggregation  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB3/Lab_3_Aggregation.ipynb)]
+
