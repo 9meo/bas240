@@ -23,3 +23,5 @@
 
 - LAB 3 Pivot Table  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB3/LAB_3_Pivot_Table.ipynb)]
 
+- LAB 4 Data Preprocessing  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB4/Lab_4_Data_Preprocessing.ipynb)]
+
