@@ -25,3 +25,7 @@
 
 - LAB 4 Data Preprocessing  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB4/Lab_4_Data_Preprocessing.ipynb)]
 
+- LAB 5 Outliers  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Lab_5_Outliers.ipynb)]
+
+- Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
+
