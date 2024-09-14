@@ -27,5 +27,7 @@
 
 - LAB 5 Outliers  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Lab_5_Outliers.ipynb)]
 
+- LAB 5 Joining Table  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Lab_5_Data_Joining.ipynb)]
+
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
