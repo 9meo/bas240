@@ -29,5 +29,9 @@
 
 - LAB 5 Joining Table  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Lab_5_Data_Joining.ipynb)]
 
+- LAB 6 Diagnotic [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB6/Lab_6_Data_Diagnotic.ipynb)]
+
+- LAB 6 Predictive Analysis  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB6/Lab_6_Predictive_Analysis.ipynb)]
+
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
