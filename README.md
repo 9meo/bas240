@@ -33,5 +33,7 @@
 
 - LAB 6 Predictive Analysis  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB6/Lab_6_Predictive_Analysis.ipynb)]
 
+- LAB 7 PandasAI and LLM  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB7/PandasAI_with_lllm.ipynb)]
+
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
