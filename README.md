@@ -35,5 +35,9 @@
 
 - LAB 7 PandasAI and LLM  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB7/PandasAI_with_lllm.ipynb)]
 
+- LAB 8 Clustering  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB8/Lab8_Clustering.ipynb)]
+
+- LAB 8 Association Rules  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB8/Lab8_Association_Rules.ipynb)]
+
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
