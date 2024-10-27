@@ -1,0 +1,401 @@
+CustomerID,Age,Gender,Location,Income,Education,EmploymentStatus,Churn
+1,58,Male,Jessicaport,144978.96,PhD,Employed,1
+2,48,Male,Elizabethshire,142837.37,PhD,Self-employed,1
+3,23,Male,Port Maria,87227.3,Master's,Unemployed,1
+4,19,Male,South Miguel,97093.47,High School,Retired,1
+5,30,Female,Morganshire,58287.38,Master's,Unemployed,0
+6,59,Female,East Kimberly,71946.11,High School,Self-employed,0
+7,36,Female,Smithfurt,102728.19,PhD,Employed,0
+8,39,Male,Port David,84497.54,Master's,Self-employed,1
+9,37,Male,Amandaport,83527.25,Master's,Retired,1
+10,39,Female,East Michelle,149191.26,PhD,Self-employed,1
+11,33,Male,Newmanstad,37619.7,PhD,Self-employed,0
+12,36,Male,Riverafort,63676.93,Master's,Employed,1
+13,29,Male,South Alexandra,85315.09,High School,Unemployed,1
+14,67,Male,Thomasbury,92513.7,PhD,Employed,0
+15,22,Female,Port Bradley,85347.63,High School,Unemployed,0
+16,66,Female,Ginaland,33935.54,PhD,Retired,0
+17,22,Male,Natashaburgh,145211.58,Master's,Retired,0
+18,70,Male,North Edgarside,24633.62,High School,Employed,1
+19,48,Female,Morganbury,75088.53,Bachelor's,Unemployed,0
+20,40,Male,Roseburgh,105413.48,High School,Employed,0
+21,29,Female,Lake Michaelview,58982.87,Bachelor's,Unemployed,1
+22,27,Female,East Dana,125637.72,Bachelor's,Self-employed,0
+23,20,Female,Port Kellyport,98562.2,High School,Employed,0
+24,21,Female,West Jessicachester,141482.76,Bachelor's,Unemployed,0
+25,49,Male,Smithhaven,121178.96,PhD,Retired,0
+26,64,Male,South Holly,111734.21,PhD,Unemployed,1
+27,35,Male,Pachecomouth,129249.08,High School,Unemployed,0
+28,51,Male,Port Dennis,138502.29,High School,Employed,1
+29,36,Female,Port Tracymouth,41334.34,PhD,Retired,1
+30,33,Male,New Stacyhaven,121161.05,Master's,Employed,0
+31,33,Female,Michaelbury,116113.0,Master's,Retired,1
+32,46,Female,West Albertmouth,137681.99,Bachelor's,Unemployed,0
+33,25,Female,Rushton,133737.74,PhD,Employed,0
+34,28,Male,South Amy,123258.99,PhD,Retired,1
+35,45,Female,West Dalton,68786.54,High School,Retired,1
+36,43,Female,Abigailside,27222.76,PhD,Retired,1
+37,27,Male,New Cassandra,66499.36,High School,Retired,0
+38,68,Male,Lewisberg,110756.05,Master's,Retired,0
+39,42,Male,West Barbaraburgh,102615.62,Master's,Self-employed,1
+40,41,Female,Abigailville,129963.44,Bachelor's,Retired,0
+41,44,Female,North Billyburgh,24689.23,PhD,Employed,0
+42,50,Female,Woodmouth,117246.22,PhD,Retired,0
+43,60,Female,Popetown,83291.42,Master's,Employed,0
+44,19,Male,West Cassandraview,30989.0,Bachelor's,Self-employed,1
+45,66,Female,North Levi,46231.12,Bachelor's,Unemployed,0
+46,61,Male,Nicholsburgh,69315.14,Bachelor's,Self-employed,1
+47,59,Female,Robertberg,107462.08,Bachelor's,Self-employed,1
+48,31,Female,Carolynton,73457.49,Master's,Unemployed,1
+49,70,Female,East Sarah,123156.1,PhD,Self-employed,1
+50,34,Male,Aprilchester,45153.16,Master's,Self-employed,0
+51,31,Male,Jacksonberg,58684.35,PhD,Self-employed,1
+52,59,Male,Sarahtown,113751.57,Master's,Unemployed,1
+53,31,Male,New Jessicashire,127668.84,High School,Retired,1
+54,67,Male,Russellmouth,61093.17,Bachelor's,Self-employed,1
+55,54,Female,Lopezburgh,96771.37,Bachelor's,Unemployed,1
+56,52,Female,Brownborough,67282.99,PhD,Employed,1
+57,33,Female,Madisonfort,30104.6,PhD,Employed,0
+58,53,Female,West Brianafurt,139622.06,High School,Retired,0
+59,44,Male,Robertland,35541.57,Master's,Employed,0
+60,24,Female,North David,138668.1,Bachelor's,Retired,0
+61,53,Female,New Frederickburgh,29624.85,PhD,Retired,0
+62,40,Female,Port Michael,120554.13,Bachelor's,Unemployed,0
+63,41,Male,North Francisco,60921.8,High School,Employed,1
+64,56,Female,New Zacharyside,32049.28,Bachelor's,Retired,0
+65,40,Female,West Robert,118976.45,Bachelor's,Employed,0
+66,38,Male,Lake Jeffrey,113484.64,PhD,Self-employed,1
+67,40,Male,East Kevin,26884.02,Master's,Retired,0
+68,33,Female,Garciaside,77508.97,Bachelor's,Unemployed,1
+69,54,Female,West Heather,87064.47,Bachelor's,Self-employed,0
+70,28,Male,East Alicia,116803.24,Master's,Self-employed,1
+71,34,Male,Millerport,102516.07,PhD,Retired,1
+72,66,Female,East Christophertown,88793.88,PhD,Unemployed,0
+73,28,Male,South Shirley,29906.53,Master's,Unemployed,0
+74,45,Male,West Tanya,65220.43,PhD,Employed,1
+75,50,Male,West Scott,114755.07,PhD,Employed,1
+76,33,Male,New Ernest,95439.89,High School,Employed,1
+77,42,Male,Poolestad,93997.69,Bachelor's,Retired,1
+78,20,Male,Port Kathrynmouth,24799.23,Bachelor's,Self-employed,0
+79,35,Male,North Amberfurt,80314.55,High School,Retired,0
+80,70,Male,Boltonchester,36436.34,PhD,Unemployed,0
+81,49,Female,Port Alexanderchester,109536.96,Master's,Employed,1
+82,24,Male,New Michelle,125950.56,PhD,Unemployed,1
+83,56,Female,Fischerport,136911.86,High School,Retired,1
+84,63,Female,Robertsburgh,62463.97,PhD,Unemployed,0
+85,32,Male,Port Joshua,22341.24,PhD,Unemployed,0
+86,60,Male,Gonzalezshire,89023.77,Bachelor's,Unemployed,0
+87,68,Female,Carolinestad,121321.2,Master's,Unemployed,1
+88,38,Female,Chenfort,91879.63,Bachelor's,Retired,1
+89,37,Female,Donaldchester,83064.07,High School,Retired,1
+90,33,Male,Mariahaven,122273.26,High School,Unemployed,0
+91,67,Female,Madisontown,104992.65,Bachelor's,Employed,0
+92,34,Female,Cindyland,98275.73,High School,Retired,1
+93,32,Male,South Megan,81873.88,Bachelor's,Unemployed,1
+94,37,Female,East Cindymouth,71675.69,High School,Self-employed,1
+95,39,Male,Glennburgh,129502.38,Master's,Self-employed,1
+96,24,Female,East Meganmouth,90451.02,Bachelor's,Retired,0
+97,35,Male,Willisberg,72159.42,Master's,Unemployed,1
+98,38,Male,Cookland,48785.85,Master's,Self-employed,0
+99,63,Female,Butlerburgh,61157.82,Master's,Unemployed,0
+100,56,Male,North Matthewview,68365.5,High School,Employed,0
+101,60,Male,Kristiside,134423.32,PhD,Self-employed,0
+102,24,Male,Gregoryland,82092.49,Bachelor's,Self-employed,1
+103,62,Male,South Daniel,30634.54,Master's,Employed,0
+104,40,Male,West Tiffany,48692.06,High School,Retired,1
+105,34,Male,New Jessicaland,88081.3,High School,Unemployed,1
+106,55,Male,Lake Amandaburgh,135896.62,PhD,Employed,0
+107,22,Female,Jameshaven,104705.56,PhD,Self-employed,0
+108,63,Male,West Teresa,129608.02,High School,Unemployed,1
+109,61,Male,South Lorifort,124552.34,High School,Employed,0
+110,52,Female,South Aprilfurt,132361.15,Master's,Employed,0
+111,44,Male,Potterhaven,47201.21,Bachelor's,Unemployed,0
+112,26,Female,Port Ambertown,122509.36,Master's,Employed,0
+113,68,Male,West Marymouth,88505.67,Master's,Employed,1
+114,41,Female,Lake Kristin,90806.29,High School,Unemployed,1
+115,54,Female,Gravesshire,77648.95,PhD,Employed,1
+116,38,Female,Christiemouth,102229.76,High School,Self-employed,1
+117,36,Male,Hugheshaven,75294.68,Master's,Self-employed,1
+118,31,Male,East Cynthiaborough,107094.76,Master's,Self-employed,0
+119,18,Female,South Kevinland,30115.24,Master's,Unemployed,1
+120,30,Male,Emilyfurt,82980.29,PhD,Unemployed,1
+121,48,Male,Sandraborough,53134.04,Master's,Unemployed,1
+122,18,Female,Hoodhaven,68383.27,High School,Employed,1
+123,52,Male,Lake Sara,70422.57,Master's,Self-employed,0
+124,68,Female,Jonathanbury,146459.33,High School,Employed,0
+125,68,Female,South Justin,56608.22,PhD,Retired,0
+126,34,Female,Lake Brianmouth,56913.93,Master's,Employed,0
+127,39,Male,Deanland,26568.59,High School,Unemployed,1
+128,63,Female,Lake James,130722.79,High School,Unemployed,1
+129,52,Female,New Kevinstad,55872.96,Bachelor's,Employed,0
+130,34,Male,Lake Caleb,108185.96,High School,Employed,1
+131,37,Female,Shannonhaven,130954.18,PhD,Employed,0
+132,58,Male,New Henry,36040.44,Master's,Retired,0
+133,24,Male,Kathleenchester,30774.23,Bachelor's,Self-employed,0
+134,64,Male,Sylviaberg,77071.93,PhD,Employed,0
+135,39,Female,Amandaville,21681.29,High School,Self-employed,1
+136,25,Male,New Stevenfurt,21403.51,PhD,Self-employed,0
+137,61,Male,Port Erica,146536.38,Bachelor's,Retired,1
+138,67,Male,Lake Shannon,75579.75,High School,Self-employed,1
+139,45,Female,South Jessica,25566.85,High School,Unemployed,0
+140,55,Male,East Allenville,43137.95,PhD,Employed,1
+141,48,Male,Port Marcport,126866.48,Master's,Retired,1
+142,53,Male,Isaacside,81303.81,PhD,Self-employed,0
+143,67,Female,Port Carrie,102320.4,High School,Retired,1
+144,24,Male,Teresaburgh,114522.18,High School,Unemployed,0
+145,65,Female,North Jacob,30205.31,Master's,Unemployed,0
+146,28,Male,Reedhaven,131661.32,PhD,Retired,0
+147,44,Male,Thomasfort,126919.09,Master's,Unemployed,1
+148,46,Male,East Shannonmouth,124342.42,Bachelor's,Employed,1
+149,55,Male,Brandonfort,63256.62,Bachelor's,Employed,0
+150,69,Female,Tonyaview,91610.02,Bachelor's,Self-employed,0
+151,65,Female,North Marc,53627.63,Bachelor's,Unemployed,1
+152,62,Male,Port Daniel,54663.06,Master's,Self-employed,0
+153,18,Female,Port Andrewberg,49035.28,Bachelor's,Unemployed,0
+154,39,Male,Stanleyborough,131973.21,Master's,Self-employed,0
+155,35,Male,West Johnny,87557.62,High School,Retired,1
+156,33,Female,Fosterburgh,61248.5,PhD,Retired,0
+157,22,Female,New Ryan,73460.29,High School,Employed,1
+158,38,Female,Cardenaston,141205.61,PhD,Self-employed,1
+159,42,Male,Lauraburgh,51034.02,Bachelor's,Retired,0
+160,62,Female,Kimtown,111134.2,Bachelor's,Retired,1
+161,22,Female,Veronicafort,79683.27,Bachelor's,Employed,0
+162,68,Female,Thomasborough,135428.95,High School,Self-employed,1
+163,48,Male,West Joshua,36991.52,High School,Self-employed,1
+164,69,Male,East Daniel,78456.3,High School,Employed,1
+165,68,Male,Castilloview,38539.64,Bachelor's,Unemployed,0
+166,67,Female,Laurenfort,143631.71,High School,Retired,1
+167,49,Female,North Jasmine,35309.1,Bachelor's,Unemployed,0
+168,43,Male,East Stacie,53604.07,Bachelor's,Retired,0
+169,43,Female,Lake Jacqueline,27714.14,Bachelor's,Employed,0
+170,50,Female,Kevinfurt,74453.0,PhD,Self-employed,1
+171,46,Female,Ellismouth,146310.59,PhD,Unemployed,1
+172,31,Male,West Briannaland,83229.21,PhD,Retired,0
+173,63,Female,Patriciabury,118158.01,High School,Unemployed,1
+174,41,Male,Huffburgh,134793.43,PhD,Self-employed,0
+175,31,Female,South Stephenland,134247.48,Bachelor's,Self-employed,1
+176,28,Female,East Morgan,114652.93,High School,Retired,0
+177,42,Male,Claireborough,145638.47,Bachelor's,Employed,1
+178,31,Male,Mcmahonchester,51548.16,High School,Retired,0
+179,35,Male,New Michael,106468.9,Master's,Employed,1
+180,58,Male,Claytonmouth,56547.8,PhD,Self-employed,0
+181,45,Female,Lake Crystal,142371.29,Bachelor's,Self-employed,0
+182,45,Male,Lake Jacobton,88219.47,Master's,Employed,0
+183,34,Female,South Jeffrey,83910.59,Master's,Self-employed,1
+184,57,Male,Hernandezport,63412.8,Master's,Unemployed,1
+185,41,Female,Port Jasonview,86625.17,Bachelor's,Self-employed,0
+186,60,Female,Sandershaven,99998.57,Bachelor's,Employed,1
+187,65,Male,Williamsview,30935.41,High School,Unemployed,1
+188,38,Female,Jamesstad,102091.84,High School,Self-employed,1
+189,58,Female,East Debbie,86576.11,Bachelor's,Self-employed,1
+190,35,Female,Lake Coreyton,40482.67,Master's,Employed,0
+191,28,Female,West Johnbury,143862.34,Master's,Self-employed,0
+192,63,Male,Justinstad,121288.39,PhD,Unemployed,1
+193,29,Male,Tonyport,99739.89,PhD,Unemployed,1
+194,26,Male,Odomport,25261.33,High School,Retired,0
+195,44,Female,Brandonview,128168.4,Master's,Unemployed,0
+196,53,Male,New Jorgemouth,91520.56,PhD,Employed,0
+197,40,Female,Lake Stephen,49125.03,PhD,Unemployed,1
+198,32,Male,East Richardmouth,67143.01,PhD,Unemployed,1
+199,24,Male,Feliciamouth,117428.47,PhD,Self-employed,1
+200,38,Male,West Andreastad,92255.67,PhD,Retired,1
+201,41,Male,Grimeschester,28451.72,Bachelor's,Employed,1
+202,18,Male,West Brian,29145.46,PhD,Unemployed,0
+203,54,Male,Mariaside,114826.9,PhD,Unemployed,0
+204,51,Female,Lake Lisa,22125.25,High School,Retired,1
+205,55,Female,Angelaside,47460.31,High School,Unemployed,1
+206,27,Male,East Makaylatown,145833.39,Bachelor's,Self-employed,0
+207,70,Male,Claytontown,26564.06,Bachelor's,Self-employed,0
+208,37,Male,East Denisebury,92003.65,PhD,Self-employed,1
+209,49,Male,East Heatherton,106558.54,Master's,Employed,0
+210,53,Male,South Matthew,137865.79,PhD,Unemployed,0
+211,25,Male,Avilachester,65815.77,Bachelor's,Retired,1
+212,18,Female,Lopezport,41878.43,High School,Unemployed,0
+213,44,Female,Walkerside,20738.62,High School,Self-employed,1
+214,34,Female,Edwardsmouth,36580.25,High School,Self-employed,0
+215,57,Male,Port Sandra,76140.97,Bachelor's,Self-employed,1
+216,37,Male,Joneschester,46928.64,High School,Retired,0
+217,31,Male,Luisfort,107381.42,Master's,Retired,0
+218,45,Male,West Nathanielchester,124646.75,High School,Retired,1
+219,41,Female,Arnoldmouth,27453.68,PhD,Unemployed,1
+220,58,Male,East James,24044.9,High School,Retired,1
+221,57,Male,Michaelport,62367.15,High School,Self-employed,1
+222,63,Female,Amyland,144454.49,Master's,Retired,1
+223,58,Male,South Cynthiamouth,68327.9,PhD,Employed,0
+224,40,Female,Sharonstad,118336.0,PhD,Employed,0
+225,53,Male,Kimchester,62723.15,High School,Employed,0
+226,49,Female,Haleyton,27192.11,Bachelor's,Self-employed,0
+227,31,Male,Carterville,122208.73,Master's,Retired,1
+228,28,Male,Michaeltown,58839.37,Master's,Employed,0
+229,36,Female,Amberbury,82326.06,PhD,Retired,1
+230,27,Female,Michaelhaven,102498.96,PhD,Unemployed,1
+231,36,Male,Michaelland,88728.72,Bachelor's,Retired,1
+232,24,Male,New Tracy,124748.83,PhD,Retired,1
+233,45,Male,New Charleshaven,68762.54,High School,Self-employed,1
+234,47,Male,East Aaronbury,124672.68,Bachelor's,Employed,0
+235,66,Female,West Mario,45282.61,High School,Unemployed,0
+236,24,Female,Port Charlesland,52286.67,PhD,Self-employed,1
+237,28,Female,North Billy,116170.11,Bachelor's,Employed,0
+238,64,Male,New Judith,108763.07,High School,Employed,0
+239,37,Male,Davisfort,118220.67,Master's,Retired,1
+240,51,Male,West Stevenshire,23358.54,Bachelor's,Unemployed,0
+241,23,Male,New Patrickview,119052.35,High School,Employed,1
+242,35,Male,Margaretborough,59664.91,Master's,Unemployed,1
+243,54,Male,New Drew,108140.09,Master's,Employed,1
+244,34,Male,Cummingston,84974.3,Bachelor's,Unemployed,0
+245,27,Male,Pamelashire,101503.89,PhD,Retired,0
+246,36,Female,Alanmouth,78382.02,High School,Self-employed,1
+247,18,Female,Davidberg,147712.55,PhD,Self-employed,0
+248,28,Male,Davisland,124399.33,High School,Unemployed,1
+249,48,Male,Stephanieview,145207.94,High School,Self-employed,1
+250,52,Female,Brianshire,31430.52,PhD,Retired,1
+251,55,Male,Mitchelltown,88526.83,PhD,Retired,0
+252,46,Female,North Aprilfort,94748.2,Bachelor's,Employed,0
+253,30,Female,North Jeffrey,144216.47,PhD,Retired,1
+254,32,Female,Jaketown,93709.53,PhD,Employed,0
+255,46,Male,Franciscofort,27590.82,Bachelor's,Retired,0
+256,18,Female,Courtneyburgh,53414.05,PhD,Employed,1
+257,44,Male,Clarkstad,106539.2,PhD,Unemployed,1
+258,18,Female,South Michael,95655.54,PhD,Employed,1
+259,40,Male,Jenkinsmouth,24266.68,PhD,Employed,1
+260,69,Female,South Tinastad,138569.53,PhD,Employed,0
+261,62,Male,North Stephen,101452.3,Master's,Unemployed,1
+262,27,Female,New Breanna,42758.41,Master's,Unemployed,1
+263,38,Female,Lake Reginashire,133676.4,Master's,Retired,0
+264,38,Female,North Lisaton,64837.05,Bachelor's,Employed,1
+265,52,Female,East Michael,51797.95,Master's,Self-employed,1
+266,70,Female,Brownland,114469.81,PhD,Retired,1
+267,53,Female,Hannahfort,147490.16,High School,Self-employed,1
+268,48,Female,Johnsonland,98590.35,PhD,Retired,1
+269,22,Female,Washingtonville,74451.07,Bachelor's,Unemployed,0
+270,59,Female,Haroldmouth,111021.75,PhD,Retired,0
+271,31,Female,Jameschester,147738.16,High School,Retired,1
+272,68,Male,Port Robertfort,33542.91,Bachelor's,Self-employed,1
+273,26,Female,Jacobport,35217.61,Master's,Employed,1
+274,46,Male,Port Malloryshire,44057.59,High School,Self-employed,1
+275,30,Male,New Linda,71558.25,High School,Unemployed,1
+276,19,Female,Nataliebury,111515.39,Master's,Self-employed,1
+277,56,Female,New Laurachester,50232.99,PhD,Self-employed,1
+278,64,Male,Dianeburgh,117652.75,PhD,Self-employed,1
+279,23,Male,South Stevenchester,82860.18,PhD,Retired,1
+280,26,Male,Elizabethberg,83799.58,Bachelor's,Retired,1
+281,25,Female,Woodsland,55939.62,High School,Unemployed,1
+282,18,Female,New Carla,125153.24,PhD,Unemployed,0
+283,31,Female,Port Heather,113196.49,High School,Unemployed,0
+284,54,Female,Diazview,74778.55,High School,Employed,0
+285,19,Female,Lake David,132468.84,Master's,Self-employed,1
+286,64,Female,South Linda,26610.92,PhD,Employed,0
+287,44,Male,Patriciaton,58100.23,PhD,Unemployed,0
+288,51,Female,Edwardbury,43453.08,Bachelor's,Retired,1
+289,36,Female,Warnerfurt,140101.35,Master's,Employed,0
+290,37,Male,Phillipsbury,74302.71,PhD,Unemployed,1
+291,56,Female,Robinsonfurt,69034.59,Bachelor's,Retired,0
+292,28,Female,Shannonview,42744.65,PhD,Unemployed,0
+293,54,Male,Morganfurt,88627.97,High School,Retired,1
+294,20,Female,Yatesburgh,126536.24,Master's,Unemployed,0
+295,57,Male,Perezshire,111649.85,High School,Unemployed,0
+296,34,Female,East Ryanville,115755.83,Bachelor's,Employed,1
+297,35,Male,Michaelburgh,143573.29,Bachelor's,Self-employed,1
+298,33,Male,West Krystalport,128336.03,PhD,Self-employed,0
+299,65,Female,Weisston,82270.0,PhD,Retired,1
+300,47,Female,Leonardport,99137.22,Master's,Retired,0
+301,56,Female,South Makayla,31330.36,PhD,Employed,0
+302,28,Male,Matthewchester,42165.93,High School,Employed,0
+303,54,Male,Lake Judithberg,70786.7,Master's,Unemployed,1
+304,43,Male,South Jillhaven,33505.98,PhD,Unemployed,1
+305,19,Female,Martinland,79055.13,Bachelor's,Unemployed,1
+306,22,Female,Grayville,108684.99,High School,Self-employed,1
+307,55,Male,Samanthamouth,50929.06,Bachelor's,Self-employed,1
+308,31,Female,Owenmouth,49252.92,PhD,Employed,0
+309,60,Female,Lake Anita,100053.58,PhD,Unemployed,1
+310,59,Female,Danielstad,125453.96,High School,Employed,0
+311,24,Female,North Deborah,95654.95,PhD,Employed,0
+312,70,Male,Jacobville,133600.55,PhD,Employed,0
+313,27,Female,Lake Samanthastad,59489.69,Master's,Self-employed,0
+314,47,Female,Port Ashley,132962.53,PhD,Self-employed,1
+315,31,Male,Port Corey,62969.8,Bachelor's,Retired,1
+316,32,Female,Lake Alexanderfurt,41510.7,Master's,Employed,1
+317,25,Male,New Shannonborough,64512.75,High School,Self-employed,0
+318,20,Male,New Taylortown,35348.95,PhD,Self-employed,0
+319,28,Male,Allisonhaven,53087.96,PhD,Employed,0
+320,49,Female,Joseburgh,37619.2,Bachelor's,Retired,0
+321,62,Female,Donview,128748.71,High School,Employed,1
+322,59,Female,Lake Michelestad,57368.36,High School,Self-employed,1
+323,43,Male,Bradleyville,145898.17,High School,Unemployed,1
+324,39,Male,Port Tanya,22110.32,High School,Unemployed,0
+325,63,Female,Lake Josephland,100365.44,PhD,Unemployed,1
+326,30,Male,Port William,100699.7,Master's,Unemployed,1
+327,65,Male,Thomasville,43901.93,High School,Unemployed,1
+328,42,Female,East Jeffreyville,65765.67,Master's,Employed,1
+329,63,Male,East Ryanfurt,55901.37,High School,Employed,0
+330,44,Female,Stephaniechester,85738.68,Bachelor's,Unemployed,0
+331,26,Female,Port Garyport,123498.28,Master's,Self-employed,0
+332,61,Female,Masseychester,38949.14,High School,Self-employed,1
+333,24,Male,Simmonsland,147084.12,Bachelor's,Retired,0
+334,41,Female,Maryton,75120.11,Master's,Self-employed,0
+335,45,Male,North Crystalbury,149407.47,High School,Unemployed,0
+336,34,Female,Boydside,58489.73,Master's,Self-employed,0
+337,47,Male,Port Bryanville,120833.21,PhD,Unemployed,1
+338,50,Female,Alyssaview,75106.09,PhD,Unemployed,1
+339,49,Female,Michelleburgh,34042.32,Bachelor's,Self-employed,0
+340,33,Female,Kimberlyview,63271.08,PhD,Self-employed,0
+341,29,Male,Lake Timothymouth,131140.62,Master's,Employed,0
+342,62,Male,New Eileen,22274.66,High School,Self-employed,0
+343,27,Female,Port Kristin,94058.54,Master's,Retired,0
+344,53,Female,Morganmouth,95067.45,Bachelor's,Employed,0
+345,36,Male,North Anthonyburgh,40707.24,PhD,Retired,0
+346,21,Male,Susanfort,49091.25,High School,Employed,0
+347,33,Female,Lake Alex,127679.08,Bachelor's,Retired,1
+348,50,Female,Robertsmouth,112504.89,PhD,Self-employed,0
+349,36,Female,Port Franciscomouth,27754.64,PhD,Retired,0
+350,58,Male,Ellisshire,120530.33,Bachelor's,Unemployed,1
+351,48,Male,North Mark,121884.35,Master's,Self-employed,1
+352,19,Male,Hammondport,49747.26,Bachelor's,Retired,1
+353,56,Male,Kathrynburgh,87069.21,High School,Unemployed,1
+354,45,Female,West Christineton,110725.11,PhD,Retired,0
+355,35,Female,Montgomeryborough,35781.27,Bachelor's,Employed,0
+356,53,Male,New Scott,45571.53,High School,Unemployed,1
+357,19,Female,Ryanmouth,45454.75,Bachelor's,Retired,0
+358,45,Male,Alexandraland,69775.07,High School,Unemployed,1
+359,18,Female,Gracebury,76255.29,Master's,Unemployed,1
+360,31,Male,New Jonathan,88739.38,High School,Self-employed,1
+361,38,Male,Maynardfort,61320.14,PhD,Employed,0
+362,46,Female,Deleonmouth,120629.19,High School,Retired,1
+363,51,Male,Moorebury,130234.97,Bachelor's,Self-employed,1
+364,70,Male,Karenborough,113435.83,Bachelor's,Self-employed,1
+365,63,Male,Alexandermouth,78298.57,High School,Employed,1
+366,67,Female,West James,119287.9,PhD,Employed,1
+367,19,Female,Lake Rebeccahaven,90225.44,Bachelor's,Unemployed,1
+368,60,Male,East Larry,34374.53,High School,Retired,1
+369,69,Female,Nicolehaven,137952.83,PhD,Unemployed,0
+370,53,Female,Burchborough,107801.56,PhD,Employed,0
+371,60,Female,Danielville,123843.27,PhD,Retired,0
+372,64,Male,West Christian,121365.06,High School,Employed,0
+373,70,Male,Ramirezmouth,124893.34,Master's,Employed,0
+374,19,Male,Perkinsmouth,112306.15,High School,Self-employed,1
+375,61,Male,Nicholeside,87572.13,Bachelor's,Retired,0
+376,50,Male,Lake Alicia,113552.69,Master's,Self-employed,0
+377,67,Female,Grahamview,78438.32,Bachelor's,Employed,1
+378,62,Female,South Ricardochester,109033.29,Master's,Unemployed,0
+379,60,Male,Rodriguezton,52766.99,High School,Retired,1
+380,48,Male,East Monica,57561.92,High School,Employed,0
+381,39,Male,Mackborough,86022.0,High School,Self-employed,0
+382,62,Male,South Richard,61735.99,PhD,Retired,1
+383,23,Male,Dominiqueport,92299.85,Bachelor's,Retired,1
+384,19,Male,West Maryborough,81127.47,Master's,Employed,1
+385,28,Male,West Sarah,87272.18,High School,Retired,1
+386,39,Female,New Julie,81849.32,PhD,Self-employed,1
+387,51,Female,Joseport,136051.71,High School,Retired,0
+388,64,Male,New Heather,80281.22,Bachelor's,Unemployed,0
+389,59,Male,New Andrew,116993.67,PhD,Unemployed,1
+390,66,Female,Simpsonberg,40616.64,Bachelor's,Employed,1
+391,30,Male,Jamesborough,53667.76,Bachelor's,Employed,1
+392,46,Female,Nicolemouth,107229.84,Bachelor's,Unemployed,0
+393,43,Female,Huffmanmouth,82313.04,Bachelor's,Self-employed,0
+394,38,Female,Port Kristenmouth,23101.25,High School,Employed,1
+395,54,Male,East Williamfurt,64895.38,High School,Self-employed,0
+396,54,Male,Perryburgh,41544.85,High School,Self-employed,1
+397,30,Female,South Emily,65058.37,Master's,Unemployed,1
+398,18,Female,Michaelfurt,112633.67,Bachelor's,Employed,0
+399,68,Female,Hodgesmouth,21030.41,Master's,Retired,1
+400,58,Female,South Jessicaport,144958.38,Bachelor's,Unemployed,1
