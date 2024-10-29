@@ -39,5 +39,7 @@
 
 - LAB 8 Association Rules  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB8/Lab8_Association_Rules.ipynb)]
 
+- LAB 9 Practice  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB9/Lab9_Practice.ipynb)]
+
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
