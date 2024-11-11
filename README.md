@@ -43,3 +43,6 @@
 
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
+- Deep Neural Network  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/MTS484/MTS484_DNN.ipynb)]
+
+
