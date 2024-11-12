@@ -41,6 +41,8 @@
 
 - LAB 9 Practice  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB9/Lab9_Practice.ipynb)]
 
+- LAB 10 Practice  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB10/Lab10_Data_Visualization.ipynb)]
+
 - Decision Tree  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/LAB5/Decision_Tree.ipynb)]
 
 - Deep Neural Network  [[Colab](https://colab.research.google.com/github/9meo/bas240/blob/main/MTS484/MTS484_DNN.ipynb)]
